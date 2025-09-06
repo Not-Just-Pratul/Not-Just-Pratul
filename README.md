@@ -36,9 +36,9 @@
     </a>
   </p>
 
-  <p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=not-just-pratul.not-just-pratul" alt="Visitor Badge"/>
-  </p>
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=not-just-pratul.readme" alt="Visitor Badge"/>
+</p>
 </div>
 
 ---
