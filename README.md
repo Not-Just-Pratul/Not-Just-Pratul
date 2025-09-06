@@ -182,10 +182,9 @@
 
 ---
 <br clear="both">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/not-just-pratul/not-just-pratul/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/not-just-pratul/not-just-pratul/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/not-just-pratul/not-just-pratul/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pacman.abozanona.me?username=not-just-pratul&theme=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://pacman.abozanona.me?username=not-just-pratul&theme=github-light">
+  <img alt="Pac-Man contribution graph" src="https://pacman.abozanona.me?username=not-just-pratul&theme=github-light">
 </picture>
 
