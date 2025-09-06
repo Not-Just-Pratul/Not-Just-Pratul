@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -17,6 +17,10 @@
   📚 Exploring AI agents, Next.js, and advanced system design.<br>
   ⚡ Passionate about building elegant UIs and scalable backends.<br>
 </p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=not-just-pratul.not-just-pratul&"  />
+</div>
 
 ---
 
