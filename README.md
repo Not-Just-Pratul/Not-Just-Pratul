@@ -164,13 +164,9 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-
-###
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=not-just-pratul&show_icons=true&theme=dracula&hide_border=false" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=not-just-pratul&layout=compact&theme=dracula&hide_border=false" height="160" />
 </div>
