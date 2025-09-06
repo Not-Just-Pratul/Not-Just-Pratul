@@ -133,7 +133,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" height="40" alt="twilio logo" />
@@ -152,6 +151,7 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/framer-1.svg" height="40" alt="framer logo" />
   <img width="12" />
+  <div align="left">
 </div>
 
 ---
