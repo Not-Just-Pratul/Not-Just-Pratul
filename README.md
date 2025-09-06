@@ -66,6 +66,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
+  <img src="https://vitejs.dev/logo.svg" height="40" alt="vite logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -131,6 +133,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" height="40" alt="twilio logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/fluency/48/adobe-lightroom.png" height="40" alt="adobe lightroom logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo" />
+  <img width="12" />
+  <img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg" height="40" alt="vercel logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" alt="netlify logo" />
+  <div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height="40" alt="steam logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-1.svg" height="40" alt="framer logo" />
+  <img width="12" />
 </div>
 
 ---
