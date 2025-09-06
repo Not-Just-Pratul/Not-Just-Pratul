@@ -41,10 +41,11 @@
 
 </div>
 
-
 ---
+<div align="center">
 
 # 💻 Tech Stack:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -153,16 +154,22 @@
   <img width="12" />
   <div align="left">
 </div>
+</div>
 
 ---
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote" />
 </div>
+</div>
 
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats:
 
@@ -179,8 +186,10 @@
   <img src="https://streak-stats.demolab.com?user=not-just-pratul&theme=dracula&hide_border=false" height="160" />
   <img src="https://github-profile-trophy.vercel.app/?username=not-just-pratul&theme=dracula&no-frame=false&no-bg=false&margin-w=10&margin-h=10" height="160" />
 </div>
+</div>
 
 ---
+
 <br clear="both">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pacman.abozanona.me?username=not-just-pratul&theme=github-dark">
@@ -188,3 +197,4 @@
   <img alt="Pac-Man contribution graph" src="https://pacman.abozanona.me?username=not-just-pratul&theme=github-light">
 </picture>
 
+---
