@@ -16,22 +16,26 @@
   🔭 Currently working on full-stack apps & automation tools.<br>
   📚 Exploring AI agents, Next.js, and advanced system design.<br>
   ⚡ Passionate about building elegant UIs and scalable backends.<br>
+  🌐 Check out my portfolio: <a href="https://pratul.vercel.app" target="_blank">pratul.vercel.app</a><br>
 </p>
 
 ---
 
 <div align="center">
 
-  ## 🌐 Socials
+  ## 🌐 Socials & Portfolio
 
   <p>
+    <a href="https://pratul.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
     <a href="https://instagram.com/not.just.pratul" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="https://www.linkedin.com/in/pratul-s-bizjourney/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://medium.com/@@pratul.exe" target="_blank">
+    <a href="https://medium.com/@pratul.exe" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
     </a>
   </p>
@@ -196,5 +200,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://pacman.abozanona.me?username=not-just-pratul&theme=github-light">
   <img alt="Pac-Man contribution graph" src="https://pacman.abozanona.me?username=not-just-pratul&theme=github-light">
 </picture>
-
----
